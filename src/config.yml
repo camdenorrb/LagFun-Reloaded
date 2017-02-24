@@ -1,0 +1,6 @@
+
+# The Regex pattern you would like to use to find a word to replace.
+pattern: "([Ll]+)(\W*\d*[_]*)*([Aa@4]+)(\W*\d*[_]*)*([Gg]+)"
+
+# The replacement value
+replacement: "fun"
